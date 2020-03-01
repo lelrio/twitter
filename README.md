@@ -1,8 +1,10 @@
 Devoir Twitter fait avec Laravel 
 
 J'ai fais l'authentification
+
 j'ai fais la création de tweet / suppression de tweet
-Gestion du user profile : modification de l'image du mail du username et mis une image de base pour chaque membre crée,
+
+Gestion du user profile : modification de l'image du mail du username et mis une image de base pour chaque membre crée
 
 crée un user profile avec la liste de tout les tweets j'ai pas réussis à afficher la liste de l'utilisateur j'ai noté dans le code d'ailleurs ma tentative en commentaire
 
